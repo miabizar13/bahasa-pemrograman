@@ -1,0 +1,20 @@
+@startuml Tugas 6
+start
+:Display (Menu Jualan);
+        if (pilih == 1. Ice Tea) then (case 1)
+                :input (qty);
+                :show (Total Harga);
+        elseif (pilih == 2. Ice Chocolate Tea) then (case2)
+                :input (qty);
+                :show (Total Harga);
+        elseif (pilih == 3. Ice Americano) then (case3)
+                :input (qty);
+                :show (Total Harga);
+        elseif (pilih == 4. Ice Coffee Latte) then (case4)
+                :input (qty);
+                :show (Total Harga);
+        else
+                :Display "Menu yang dipilih tidak ada";
+        endif
+stop
+@enduml
