@@ -10,7 +10,7 @@ Menurut pemahaman saya, Bahasa Pemograman adalah sekumpulan instruksi yang disus
 2. Jelaskan berdasarkan pemahaman anda apa saja paradigma dalam Bahasa Pemograman?
 
 # JAWABAN ANDA
-
+Paradigma dalam Bahasa Pemrograman merupakan gaya, klasifikasi, dan pendekatan dalam penulisan program untuk memecahkan masalah dengan menggunakan bahasa pemrograman yang digunakan.
 
 # SOAL 3
 
