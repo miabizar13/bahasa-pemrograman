@@ -1,4 +1,4 @@
-@startuml Tugas 6
+@startuml soal7.puml
 start
 repeat :Display (MENU 1. Tambah; 2. Kurang; 3. Kali; 4. Bagi; 5. Exit);
         if (pilih == 1. Tambah) then (pilihan 1)
