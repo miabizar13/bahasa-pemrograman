@@ -1,0 +1,31 @@
+@startuml Tugas 6
+start
+repeat :Display (MENU 1. Tambah; 2. Kurang; 3. Kali; 4. Bagi; 5. Exit);
+        if (pilih == 1. Tambah) then (pilihan 1)
+                :show (Pilihan);
+                :input (Angka 1);
+                :input (Angka 2);
+                :show (Hasil);
+        elseif (pilih == 2. Kurang) then (pilihan 2)
+                :show (Pilihan);
+                :input (Angka 1);
+                :input (Angka 2);
+                :show (Hasil);
+        elseif (pilih == 3. Kali) then (pilihan 3)
+                :show (Pilihan);
+                :input (Angka 1);
+                :input (Angka 2);
+                :show (Hasil);
+        elseif (pilih == 4. Bagi) then (pilihan 4)
+                :show (Pilihan);
+                :input (Angka 1);
+                :input (Angka 2);
+                :show (Hasil);
+        elseif (pilih == 5. Exit) then (pilihan 5)
+                
+        else
+                :Display "Pilihan Salah!";
+        endif
+        repeat while (kembali ke MENU)
+stop
+@enduml
