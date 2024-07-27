@@ -1,0 +1,1 @@
+Aplikasi dapat berkomunikasi dengan database menggunakan bahasa pemrograman Python dengan memanfaatkan library atau modul khusus yang dirancang untuk berinteraksi dengan berbagai jenis database.

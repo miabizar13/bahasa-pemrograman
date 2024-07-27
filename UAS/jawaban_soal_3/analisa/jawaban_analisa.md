@@ -1,0 +1,1 @@
+GUI (Graphical User Interface) adalah antarmuka sistem operasi berbasis grafis seperti ikon, tombol, menu, dan representasi visual lainnya untuk mendukung interaksi pengguna dengan sistem.
